@@ -1,0 +1,163 @@
+
+#content {
+    width: 100%;
+    height: 2100px;
+    background-color: #fbedd7;
+}
+
+.menu-cafe{
+    padding: 45px 0px;
+    width: 100%;
+}
+
+.menu-content {
+    width: 70%;
+    height: 565px;
+    margin: 0px auto;
+     width: 66,6666666px;
+}
+
+.title {
+    font-size: 40px;
+    line-height: 55px;
+    font-weight: normal;
+    color: #53382c;
+}
+.menu-info-cafe{
+    padding-top: 15px;
+    justify-content: center;
+}
+.img-infor {
+    width: 66.666666% !important;
+    float: left;
+}
+
+.menu-about {
+    padding: 15px 0px;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+.menu-about {
+    color: #b22830;
+}
+
+.btn-menu {
+    padding: 30px 0px;
+     text-align: center;
+}
+
+.btn-menu a {
+    padding: 10px 80px;
+    background-color: #fff0;
+    border: 1px solid #b22830;
+    border-radius: 5px;
+    color: #b22830;
+    font-size: 20px;
+    display: inline;
+    text-decoration: none;
+
+}
+
+.menu-sidebar{
+    width: 33.3333333%;
+    float: left;
+
+}
+.item{
+    width: 40%;
+    float: left;
+}
+.infor-sidebar{
+    width: 60%;
+    float: left;
+}
+
+.h-left {
+    text-align: left;
+    font-size: 25px;
+}
+
+.black {
+    color: #000 !important;
+}
+
+.let-spc-4px{
+    letter-spacing: -4px;
+}
+
+.hover-img:hover {
+    transform: scale(1.2) ;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-menu:hover a {
+    background-color: #b22830;
+    color: #fff;
+    transition: 0.3s;
+}
+
+#options {
+    background-color: #fff;
+    width: 90%;
+    height: 700px;
+}
+
+#options .list-options {
+    width: 70%;
+    background-color: #fff;
+    height: 400px;
+    margin: 0px auto;
+
+}
+
+.col-third {
+    width:30%;
+    float: left;
+    height: 100%;
+    padding-left: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+}
+
+#options{
+
+    padding: 95px 0px;
+}
+#options .list-options{
+
+}
+#options .img-options{
+    position: relative;
+    height: 100%;
+}
+#options img {
+    position: absolute;
+    width: 100%;
+    display: block;
+
+}
+
+.img2 {
+    display: block;
+}
+
+#options .infor-options {
+    display: block;
+}
+
+.infor-options h2{
+    font-size: 40px;
+    padding: 15px 0px;
+}
+
+.infor-options a {
+    color: #000;
+    text-decoration: none;
+}
+
+.infor-options:hover a {
+    color: #b22830;
+    transition: ease 1.2s;
+}
